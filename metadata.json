@@ -1,0 +1,6 @@
+{
+  "name": "Electri-City Utah LLC",
+  "description": "High-conversion landing page for an electrical contracting business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
