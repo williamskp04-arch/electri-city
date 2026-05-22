@@ -46,7 +46,8 @@ export default function Gallery() {
                 <div className="absolute inset-0 bg-[#F97316]/20 mix-blend-multiply opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10"></div>
                 <img 
                   src={src} 
-                  alt={`Project gallery visualization ${index + 1}`}
+                  alt=""
+                  loading="lazy"
                   className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
               </div>
