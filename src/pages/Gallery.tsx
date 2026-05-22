@@ -1,15 +1,24 @@
 import ContactForm from '../components/ContactForm';
 import { Camera } from 'lucide-react';
 
+import img1 from '../assets/images/gallery_image_1.jpeg';
+import img2 from '../assets/images/gallery_image_2.jpeg';
+import img3 from '../assets/images/gallery_image_3.png';
+import img4 from '../assets/images/gallery_image_4.jpeg';
+import img5 from '../assets/images/gallery_image_5.jpeg';
+import img6 from '../assets/images/gallery_image_6.jpeg';
+import img7 from '../assets/images/gallery_image_7.jpeg';
+import img8 from '../assets/images/gallery_image_8.jpeg';
+
 const IMAGES = [
-  '/images/gallery_image_1.jpeg',
-  '/images/gallery_image_2.jpeg',
-  '/images/gallery_image_3.png',
-  '/images/gallery_image_4.jpeg',
-  '/images/gallery_image_5.jpeg',
-  '/images/gallery_image_6.jpeg',
-  '/images/gallery_image_7.jpeg',
-  '/images/gallery_image_8.jpeg',
+  img1,
+  img2,
+  img3,
+  img4,
+  img5,
+  img6,
+  img7,
+  img8,
 ];
 
 export default function Gallery() {
